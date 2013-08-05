@@ -1,7 +1,7 @@
 ![Screen Shot](http://cattopus23.com/img/panel-CAT510.png)
 
-Guardian Image to Data
-======================
+CAT510 Guardian Image to Data
+=============================
 
 Because the Guardian doesn't have CORS enabled images, which means you can access the pixel data when
 you throw them onto a canvas element, I needed a quick proxy to convert the image to BASE64.
